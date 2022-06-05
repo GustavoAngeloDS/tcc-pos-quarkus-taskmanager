@@ -1,4 +1,6 @@
-# gra-api Project
+# TASK MANAGER - Gerenciador remoto de atividades
+
+Este projeto está sendo desenvolvido para a obtenção do título de especialista em Desenvolvimento ágil de software no curso de pós graduação em Desenvolvimento ágil de software pela Universidade Federal do Paraná.
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
